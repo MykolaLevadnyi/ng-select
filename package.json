@@ -1,4 +1,5 @@
 {
+  "name": "psechiyblet",
   "repository": "ng-select/ng-select",
   "engines": {
     "node": ">= 16.20.0",
